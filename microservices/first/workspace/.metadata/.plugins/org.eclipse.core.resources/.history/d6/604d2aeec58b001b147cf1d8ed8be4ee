@@ -1,0 +1,9 @@
+package com.ltts.Player.model;
+
+public class Player {
+	private int playerno;
+	private String playername;
+	private String teamname;
+	
+
+}

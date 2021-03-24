@@ -1,0 +1,13 @@
+package com.ltts.DetailInfo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DetailInfoApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(DetailInfoApplication.class, args);
+	}
+
+}
